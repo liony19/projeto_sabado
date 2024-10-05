@@ -16,6 +16,7 @@ Além disso, os micro front-ends permitem:
 Escalabilidade: Dividir o front-end em micro front-ends permite que equipes diferentes trabalhem em paralelo, facilitando o escalonamento do desenvolvimento.
 Isolamento: Cada micro front-end é isolado dos outros, reduzindo o risco de que mudanças em uma parte afetem outras partes da aplicação.
 Desenvolvimento contínuo: Atualizações e melhorias podem ser feitas em uma parte da aplicação sem precisar de uma grande reformulação no sistema.
+
 4. Problemas que a Arquitetura Resolve
 A arquitetura de micro front-ends resolve uma série de problemas enfrentados por equipes que trabalham em projetos de larga escala:
 
@@ -23,6 +24,7 @@ Redução da Complexidade: Dividir o projeto em partes menores torna a manutenç
 Autonomia das Equipes: Cada equipe pode desenvolver, testar e implantar sua parte da aplicação de forma independente, promovendo a agilidade no desenvolvimento.
 Flexibilidade Tecnológica: Permite a coexistência de várias tecnologias no mesmo projeto, possibilitando que novas tecnologias sejam adotadas sem a necessidade de reescrever todo o código.
 Desenvolvimento Modular: Possibilita o reuso de componentes e módulos em diferentes partes da aplicação ou em diferentes projetos.
+
 5. Problemas que Ainda Existem Nesse Modelo
 Apesar de suas vantagens, a arquitetura de micro front-ends também apresenta alguns desafios:
 
