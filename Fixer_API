@@ -4,9 +4,9 @@
 Este é um protótipo de um aplicativo móvel que permite a conversão de moedas utilizando a Fixer API. O aplicativo tem como objetivo facilitar a conversão de moedas entre diferentes países de forma rápida e intuitiva. Ele foi projetado para ser simples e acessível, com uma interface amigável.
 
  Protótipo do Projeto
-O protótipo do projeto foi desenvolvido utilizando o [Figma](https://www.figma.com), e pode ser acessado através do seguinte link:
+O protótipo do projeto foi desenvolvido utilizando o https://www.figma.com, e pode ser acessado através do seguinte link:
 
-[Protótipo no Figma - Conversor de Moedas](https://www.figma.com/file/EXEMPLO-DE-LINK-PROTOTIPO)
+Protótipo no Figma - Conversor de Moedas https://www.figma.com/design/tzCh9yxehROAZYT8MIOxRD/conversor-de-moedas?node-id=0-1&t=71XdvddN3tf8lpjH-1
 
  Documento de Requisitos Funcionais
 Abaixo estão os requisitos funcionais do projeto. Estes foram criados para atender a necessidades específicas dos usuários, garantindo uma experiência intuitiva e funcional. O projeto foi desenvolvido por um grupo de 5 alunos, portanto, contém 5 requisitos mínimos:
@@ -36,7 +36,7 @@ Para instalar e configurar o aplicativo em um ambiente local, siga as etapas aba
 
 1. Clone o repositório:
    bash
-   git clone https://github.com/usuario/projeto-conversor-moedas.git
+   git clone https://github.com/liony19/conversor/conversor-moedas.git
    
 
 2. Navegue até o diretório do projeto e instale as dependências:
