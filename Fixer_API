@@ -11,19 +11,19 @@ Protótipo no Figma - Conversor de Moedas https://www.figma.com/design/tzCh9yxeh
  Documento de Requisitos Funcionais
 Abaixo estão os requisitos funcionais do projeto. Estes foram criados para atender a necessidades específicas dos usuários, garantindo uma experiência intuitiva e funcional. O projeto foi desenvolvido por um grupo de 5 alunos, portanto, contém 5 requisitos mínimos:
 
-1. Requisito 1 - Conversão de Moeda (Aluno 1)
+1. Requisito 1 - Conversão de Moeda
    - O usuário deve poder selecionar a moeda de origem e a moeda de destino para realizar a conversão. Após inserir o valor a ser convertido, o aplicativo utilizará a Fixer API para calcular o valor na moeda de destino e exibi-lo na tela.
 
-2. Requisito 2 - Histórico de Conversões (Aluno 2)
+2. Requisito 2 - Histórico de Conversões
    - O aplicativo deve manter um histórico das últimas 10 conversões realizadas pelo usuário. Esse histórico será exibido em uma lista, com as moedas e valores envolvidos, permitindo que o usuário veja rapidamente as conversões recentes.
 
-3. Requisito 3 - Atualização em Tempo Real (Aluno 3)
+3. Requisito 3 - Atualização em Tempo Real
    - O aplicativo deve ser capaz de atualizar automaticamente as taxas de câmbio em tempo real toda vez que o usuário realizar uma nova conversão. A atualização deverá ser feita através da Fixer API.
 
-4. Requisito 4 - Modo Offline (Aluno 4)
+4. Requisito 4 - Modo Offline
    - O aplicativo deve permitir ao usuário acessar o último valor convertido mesmo sem conexão com a internet, exibindo uma mensagem que indique que a conversão exibida é baseada em dados armazenados anteriormente.
 
-5. Requisito 5 - Seleção de Moedas Favoritas (Aluno 5)
+5. Requisito 5 - Seleção de Moedas Favoritas
    - O usuário deve poder selecionar e salvar moedas favoritas para facilitar o acesso rápido. As moedas favoritas serão exibidas na parte superior da lista de seleção de moedas.
 
  Tecnologias Utilizadas
@@ -36,7 +36,7 @@ Para instalar e configurar o aplicativo em um ambiente local, siga as etapas aba
 
 1. Clone o repositório:
    bash
-   git clone https://github.com/liony19/conversor/conversor-moedas.git
+   git clone https://github.com/liony19/projeto_sabado/blob/main/conversor/conversor-moedas.git
    
 
 2. Navegue até o diretório do projeto e instale as dependências:
