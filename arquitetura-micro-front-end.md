@@ -3,7 +3,7 @@ Micro front-ends são uma abordagem de desenvolvimento onde a interface de um ap
 
 No modelo de micro front-ends, cada fragmento do front-end é responsável por sua própria lógica de renderização, comunicação e gerenciamento de estado. Esses fragmentos podem ser desenvolvidos, implantados e mantidos separadamente, e depois são combinados na aplicação final por meio de técnicas como iframes, Web Components ou bibliotecas específicas de integração de micro front-ends.
 
-**2. Como Surgiu**
+2. Como Surgiu
 A arquitetura de micro front-ends surgiu como uma resposta à crescente complexidade dos aplicativos de front-end monolíticos. Nos últimos anos, o desenvolvimento de front-end evoluiu rapidamente, com aplicativos cada vez maiores e mais complexos, exigindo que as equipes enfrentassem desafios relacionados à escalabilidade e à manutenção. Essa abordagem foi inspirada pela arquitetura de microserviços no back-end, que se concentra na fragmentação de grandes sistemas monolíticos em pequenos serviços independentes.
 
 As empresas começaram a adotar essa abordagem para resolver problemas de desenvolvimento e manutenção em projetos de grande escala. Essa prática tem se tornado mais comum em empresas que precisam de flexibilidade para integrar diferentes tecnologias e permitir que várias equipes possam trabalhar simultaneamente no mesmo projeto sem interferir no trabalho umas das outras.
