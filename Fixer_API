@@ -1,20 +1,14 @@
-Aqui está um modelo básico de como o `README.md` poderia ser estruturado para o projeto de um aplicativo mobile que utiliza a Fixer API. Esse arquivo conterá um link para o protótipo, bem como os requisitos funcionais do projeto.
+ Projeto Mobile - Conversor de Moedas com Fixer API
 
-## README.md
-
----
-
-# Projeto Mobile - Conversor de Moedas com Fixer API
-
-### Visão Geral
+ Visão Geral
 Este é um protótipo de um aplicativo móvel que permite a conversão de moedas utilizando a Fixer API. O aplicativo tem como objetivo facilitar a conversão de moedas entre diferentes países de forma rápida e intuitiva. Ele foi projetado para ser simples e acessível, com uma interface amigável.
 
-### Protótipo do Projeto
+ Protótipo do Projeto
 O protótipo do projeto foi desenvolvido utilizando o [Figma](https://www.figma.com), e pode ser acessado através do seguinte link:
 
 [Protótipo no Figma - Conversor de Moedas](https://www.figma.com/file/EXEMPLO-DE-LINK-PROTOTIPO)
 
-### Documento de Requisitos Funcionais
+ Documento de Requisitos Funcionais
 Abaixo estão os requisitos funcionais do projeto. Estes foram criados para atender a necessidades específicas dos usuários, garantindo uma experiência intuitiva e funcional. O projeto foi desenvolvido por um grupo de 5 alunos, portanto, contém 5 requisitos mínimos:
 
 1. **Requisito 1 - Conversão de Moeda (Aluno 1)**
@@ -32,12 +26,12 @@ Abaixo estão os requisitos funcionais do projeto. Estes foram criados para aten
 5. **Requisito 5 - Seleção de Moedas Favoritas (Aluno 5)**
    - O usuário deve poder selecionar e salvar moedas favoritas para facilitar o acesso rápido. As moedas favoritas serão exibidas na parte superior da lista de seleção de moedas.
 
-### Tecnologias Utilizadas
+ Tecnologias Utilizadas
 - **Fixer API**: Para obter as taxas de câmbio atualizadas e realizar as conversões.
 - **React Native**: Para desenvolvimento do aplicativo móvel.
 - **Figma**: Para design e prototipagem da interface.
 
-### Instalação e Configuração
+ Instalação e Configuração
 Para instalar e configurar o aplicativo em um ambiente local, siga as etapas abaixo:
 
 1. Clone o repositório:
