@@ -6,7 +6,7 @@ Este é um protótipo de um aplicativo móvel que permite a conversão de moedas
  Protótipo do Projeto
 O protótipo do projeto foi desenvolvido utilizando o https://www.figma.com, e pode ser acessado através do seguinte link:
 
-Protótipo no Figma - Conversor de Moedas https://www.figma.com/design/tzCh9yxehROAZYT8MIOxRD/conversor-de-moedas?node-id=0-1&t=71XdvddN3tf8lpjH-1
+Protótipo no Figma - Conversor de Moedas https://www.figma.com/design/tzCh9yxehROAZYT8MIOxRD/conversor-de-moedas?node-id=0-1&t=WdD8A7C9jFyJsDUW-1
 
  Documento de Requisitos Funcionais
 Abaixo estão os requisitos funcionais do projeto. Estes foram criados para atender a necessidades específicas dos usuários, garantindo uma experiência intuitiva e funcional. O projeto foi desenvolvido por um grupo de 5 alunos, portanto, contém 5 requisitos mínimos:
@@ -27,32 +27,11 @@ Abaixo estão os requisitos funcionais do projeto. Estes foram criados para aten
    - O usuário deve poder selecionar e salvar moedas favoritas para facilitar o acesso rápido. As moedas favoritas serão exibidas na parte superior da lista de seleção de moedas.
 
  Tecnologias Utilizadas
-- Fixer API: Para obter as taxas de câmbio atualizadas e realizar as conversões.
-- React Native: Para desenvolvimento do aplicativo móvel.
 - Figma: Para design e prototipagem da interface.
 
- Instalação e Configuração
-Para instalar e configurar o aplicativo em um ambiente local, siga as etapas abaixo:
-
-1. Clone o repositório:
-   bash
-   git clone https://github.com/liony19/projeto_sabado/blob/main/conversor/conversor-moedas.git
-   
-
-2. Navegue até o diretório do projeto e instale as dependências:
-   bash
-   cd projeto-conversor-moedas
-   npm install
-   
-
-3. Configure a API Key da Fixer API no arquivo `.env`:
-   bash
-   FIXER_API_KEY=your_api_key
-
-
-4. Inicie o aplicativo:
-   bash
-   npm start
+ Tecnologias a Serem Utilizadas
+- Fixer API: Para obter as taxas de câmbio atualizadas e realizar as conversões.
+- React Native: Para desenvolvimento do aplicativo móvel.
 
 
 Esse projeto tem como objetivo facilitar o acesso às taxas de câmbio de maneira rápida e prática. Esperamos que este aplicativo seja útil para os usuários que buscam uma ferramenta confiável para conversão de moedas, seja em viagens ou no dia a dia.
