@@ -1,3 +1,3 @@
 Leonardo Frye Moura
-Fixer API
-MICRO FRONT-ENDS
+app com Fixer API
+apresentação sobre Micro Front-End
